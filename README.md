@@ -6,7 +6,7 @@ This app allows you to type in a text, and then displays it. You can also change
 ### App Walk-though
 
 
-<img src=https://im7.ezgif.com/tmp/ezgif-7-834d7dd7b2d2.gif width=200><br>
+<img src= "https://im7.ezgif.com/tmp/ezgif-7-834d7dd7b2d2.gif" width=200><br>
 
 
 
